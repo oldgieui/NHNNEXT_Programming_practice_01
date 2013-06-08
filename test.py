@@ -4,4 +4,4 @@ c= a + b
 
 print a
 print b
-print "a + b = ", c, "\n"
+print "a + b = ", c
